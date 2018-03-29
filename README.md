@@ -2,11 +2,11 @@ An ongoing project to create grayscale versions of the most commonly used Mac ap
 
 ### Before
 
-![Screen Shot 2018-03-29 at 18.54.37.png](resources/C21F101BB1CD207F0F36474DAA1ECF30.png =660x53)
+![Screen Shot 2018-03-29 at 18.54.37.png](https://github.com/byronpolley/dark-dock/blob/master/resources/C21F101BB1CD207F0F36474DAA1ECF30.png)
 
 ### After
 
-![Screen Shot 2018-03-29 at 18.58.16.png](resources/C824210A7F95993F2F735DE60FD71D2C.png =656x53)
+![Screen Shot 2018-03-29 at 18.58.16.png](https://github.com/byronpolley/dark-dock/blob/master/resources/C824210A7F95993F2F735DE60FD71D2C.png)
 
 ## Installation
 
@@ -21,7 +21,7 @@ An ongoing project to create grayscale versions of the most commonly used Mac ap
 
 The majority of system applications cannot be changed using LiteIcon due to a macOS security feature called SIP. LiteIcon warns you the first time opening it of this with the following prompt.
 
-![Screen Shot 2018-03-29 at 18.15.46.png](resources/4856009127EFDCA0371491CFE34BDC53.png =467x196)
+![Screen Shot 2018-03-29 at 18.15.46.png](https://github.com/byronpolley/dark-dock/blob/master/resources/4856009127EFDCA0371491CFE34BDC53.png)
 
 You will have to disable SIP temporarily with the following steps:
 1. Restart your Mac.
@@ -53,8 +53,3 @@ There is an `icons.sketch` file included for users who wish to contribute or mod
 
 Instagram: [@b_b0t](https://instagram.com/b_b0t)
 Twitter: [@b_b0t](https://instagram.com/b_b0t)
-
-
-
-
-
