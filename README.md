@@ -11,7 +11,7 @@ An ongoing project to create grayscale versions of the most commonly used Mac ap
 ## Installation
 
 1. Download the repository.
-2. Download and install [Image2Icon](http://www.img2icnsapp.com).
+2. Download and install [LiteIcon](https://freemacsoft.net/liteicon/).
 3. The `grayscale` folder contains all of the icons in black and white.
 4. Drag the `.icns` file of the desired app over the colour version within the LiteIcon panel.
 5. Click **Apply Changes**.
