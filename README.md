@@ -1,4 +1,4 @@
-An ongoing project to create grayscale versions of the most commonly used Mac apps. Inspired by the lack of a dark theme for macOS.
+An ongoing project to create grayscale versions of the most commonly used Mac apps. A perfect match for the newly introduced dark theme for macOS
 
 ### Before
 
